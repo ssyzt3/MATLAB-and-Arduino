@@ -1,0 +1,22 @@
+%Insert name here
+%Insert email address here
+
+%%PRELIMINARY TASK-ARDUINO AND GIT INSTALATION [10 MARKS]
+
+%Insert answers here
+
+%%TASK 1-READ TEMPERATURE DATA,PLOT,AND WRITETOALOG FILE [20 MARKS]
+
+%Insert answers here
+
+%%TASK 2-LED TEMPERATURE MONITORING DEVICE IMPLEMENTATION [25 MARKS]
+
+% Insert answers here
+
+%%TASK 3-ALGORITHMS-TEMPERATURE PREDICTION [25MARKS]
+
+%Insert answers here
+
+%%TASK 4-REFLECTIVE STATEMENT [5MARKS]
+
+%Insert answers here
